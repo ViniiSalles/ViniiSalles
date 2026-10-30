@@ -12,17 +12,17 @@ No TCC, construo um sistema web e mobile de gestão operacional para empresas de
 | --- | --- | --- |
 | [PanViTa 2](https://github.com/VictorCaricatte/PanViTa-2) | Back-end de ferramenta de bioinformática que compara genomas bacterianos com bancos de resistência antimicrobiana e virulência | Python, pandas, NumPy, scikit-learn |
 | [MontaControl (TCC)](https://github.com/ViniiSalles/MontaControl) | Gestão de ponto, atestados e avarias: web para gerência e RH, app mobile para montadores em campo | React + Vite, React Native + Expo, NestJS, PostgreSQL, WebSocket |
+| [Chronos](https://github.com/ViniiSalles/Chronos) | Gestão ágil de projetos e tarefas com Kanban, reuniões e notificações; fiz telas, autenticação e back-end | Flutter, NestJS, MongoDB, Kafka, Firebase |
 | [SCGR](https://github.com/ViniiSalles/SCGR) | Controle de gastos residenciais com saldo, receitas e despesas por pessoa | Next.js, TypeScript, Prisma, PostgreSQL |
-| [Church Schedule](https://github.com/ViniiSalles/Church-Schedule) | Gestão unificada de escalas e eventos para os ministérios de uma igreja | Next.js, Auth0, PostgreSQL |
 
 **Em planejamento:** [Concordi](https://github.com/ViniiSalles/Concordi), uma ideia de plataforma open source de comunicação em tempo real (texto, voz e vídeo). O desenvolvimento ainda não começou.
 
 ## Tecnologias
 
 - **Linguagens:** C#, TypeScript, JavaScript, Python, Java
-- **Back-end:** .NET, NestJS, APIs REST, WebSocket
-- **Front-end e mobile:** React, Next.js, Vite, React Native, Expo
-- **Dados:** SQL, PostgreSQL, pandas, NumPy
+- **Back-end:** .NET, NestJS, APIs REST, WebSocket, Kafka, Firebase Auth
+- **Front-end e mobile:** React, Next.js, Vite, React Native, Expo, Flutter
+- **Dados:** SQL, PostgreSQL, MongoDB, pandas, NumPy
 - **Ferramentas e práticas:** Git, Linux (Red Hat RHCSA), Scrum, Spec-Driven Development
 
 ## Contato
